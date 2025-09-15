@@ -112,4 +112,4 @@ npm run build
 ---
 
 👨‍💻 **Assignment Complete** – Dynamic Dashboard with full add/remove/search functionality.
-# dashboard_app
+
